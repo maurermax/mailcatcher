@@ -1,7 +1,7 @@
 require File.expand_path("../lib/mail_catcher/version", __FILE__)
 
 Gem::Specification.new do |s|
-  s.name = "mailcatcher"
+  s.name = "mydriver-mailcatcher"
   s.version = MailCatcher::VERSION
   s.license = "MIT"
   s.summary = "Runs an SMTP server, catches and displays email in a web interface."
